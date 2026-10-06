@@ -1,0 +1,15 @@
+{
+  "config": {
+    "base_repo_name": "H-Tech",
+    "total_backtrack_target": 1000000000
+  },
+  "tracking": {
+    "current_repo_id": 1,
+    "current_folder_id": 1,
+    "current_file_id": 1,
+    "steps_subtracted": 0,
+    "last_x": "0xc4f78bb6575faa95190cc14bec61fa95555270a1ec27d83ca26a61e46010aa5c",
+    "last_y": "0x6a7324543beddada65be7b4cc1078963e33b4cc7e86f6ec8ffa0231e249e7de3"
+  },
+  "complete": false
+}
